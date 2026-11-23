@@ -34,11 +34,12 @@
 ## 目录
 
 ```
-CLAUDE.md            大脑与七环节流程
-adapters/            飞书 / 钉钉 / 企微执行适配
-templates/           会议卡模板
-docs/书与研究精华.md  判断逻辑来源（为什么这么设计）
-LICENSE              MIT
+CLAUDE.md                    大脑与七环节流程
+adapters/                    飞书 / 钉钉 / 企微执行适配
+templates/meeting-card.md    四模块邀约正文 + 附件模板
+templates/prompt-standalone.md  单文件版 Prompt（不装 Agent 也能用）
+docs/书与研究精华.md          判断逻辑来源（为什么这么设计）
+LICENSE                      MIT
 ```
 
 MIT License，可自由用于商业与非商业场景，保留署名即可。
